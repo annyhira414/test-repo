@@ -45,6 +45,10 @@ class TestPluing {
 		// Do some stuffs
 	}
 
+	function test() {
+		echo 'This is testing';
+	}
+
 }
 
 $test_plugin = new TestPluing();
