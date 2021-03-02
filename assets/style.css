@@ -1,3 +1,12 @@
 body {
 	background-color: #FFF;
 }
+
+h1 {
+	font-size: 12px;
+	margin: 10px;
+}
+
+p {
+	font-size: 10px;
+}
